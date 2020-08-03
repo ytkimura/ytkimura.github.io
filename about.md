@@ -1,13 +1,7 @@
 ---
 layout: page
-title: About
+title: About the Maeda lab
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
-
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+Maeda Lab at University of Wisconsin-Madison studies evolutionary diversification of core metabolic pathways (i.e. primary metabolism) in various plants through chemical, biochemical, genetic, and evolutionary analyses.
