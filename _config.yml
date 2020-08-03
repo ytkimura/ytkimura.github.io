@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            PGRP
+title:            Plant Metabolic Evolution
 tagline:          'NSF PGRP project'
-description:      '.'
+description:      'Plant Metabolic Evolution.'
 url:              https://hiroshilab.github.io/PGRP/
 baseurl:          '/PGRP'
                   # the optional subpath of your site, e.g. "/blog"
@@ -15,8 +15,8 @@ baseurl:          '/PGRP'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Maeda Lab'
+  url:            
 
 paginate:         5
 # paginate_path:    '/page:num'
