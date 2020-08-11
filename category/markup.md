@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Markup
+title: Project 1
 ---
 
-Another sample category page.
+Scope of project 1
