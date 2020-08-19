@@ -8,7 +8,7 @@ While most of the plants synthesize lignin and other phenylpropanoid exclusively
 
 ![Figure 1.1](assets/figure1.1.jpg)
 
-**Figure 1.1:** grasses have the unique ability to synthesize secondary cell walls from tyrosine thanks to the novelty of PTAL enzymatic activity. Reproduced from Maeda, H. Lignin biosynthesis: Tyrosine shortcut in grasses. Nature Plants 2, 16080 (2016). https://doi.org/10.1038/nplants.2016.80
+**Figure 1.1:** grasses have the unique ability to synthesize secondary cell walls from tyrosine thanks to the novelty of PTAL enzymatic activity. Reproduced from <a href="https://doi.org/10.1038/nplants.2016.80"> Maeda, H. Lignin biosynthesis: Tyrosine shortcut in grasses. Nature Plants 2, 16080 (2016).</a>
 
 
 
