@@ -1,6 +1,10 @@
 ---
 layout: category
-title: Project 2
+title: Plant Chemical Database
 ---
 
-Scope of project 2
+To better understand the evolution of plant metabolic network, we will build phylochemical database on which various plant natural products will be mapped onto the plant tree of life. 
+
+This is being conducted with students from the Maeda lab and classroom. 
+
+*[The database will be made available here in the near future.]*
