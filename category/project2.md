@@ -1,9 +1,11 @@
 ---
 layout: category
-title: Plant Chemical Database
+title: Resources
 ---
 
-To better understand the evolution of plant metabolic network, we will build phylochemical database on which various plant natural products will be mapped onto the plant tree of life. 
+## Plant Chemical Database
+
+To better understand the evolution of plant metabolic network, we will build a phylochemical database on which various plant natural products will be mapped onto the plant tree of life. 
 
 This is being conducted with students from the Maeda lab and classroom. 
 
