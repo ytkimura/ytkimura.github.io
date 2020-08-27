@@ -8,5 +8,5 @@ Maeda Lab at University of Wisconsin-Madison studies evolutionary diversificatio
 
 People working on the projects:
 
-![Hiroshi Maeda](category/hiroshi.jpg) ![Jorge El-Azaz](category/jorge.jpg) ![Beth Moore](category/beth.jpg)
-![Caroline Hanson](category/caroline.jpg) ![Megan Gundrum](category/megan.jpg) ![Elaine Wang](category/elaine.jpg) ![Anika Gupta](category/anika.jpg) ![Andrew Hall](category/andrew.jpg)
+![Hiroshi Maeda](category/hiroshi.jpg) Hiroshi Maeda ![Jorge El-Azaz](category/jorge.jpg) Jorge El-Azaz ![Beth Moore](category/beth.jpg) Beth Moore
+![Caroline Hanson](category/caroline.jpg) Caroline Hanson ![Megan Gundrum](category/megan.jpg) Megan Gundrum ![Elaine Wang](category/elaine.jpg) Elaine Wang ![Anika Gupta](category/anika.jpg) Anika Gupta ![Andrew Hall](category/andrew.jpg) Andrew Hall
