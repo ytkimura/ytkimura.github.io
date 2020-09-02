@@ -1,5 +1,7 @@
 ---
 layout: category
-title: Project 3
+title: Contact us!
 ---
-Project 3 scope
+## Contact
+
+Maeda lab email: maedabotany@gmail.com
