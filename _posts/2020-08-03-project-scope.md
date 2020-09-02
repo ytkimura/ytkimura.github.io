@@ -20,5 +20,5 @@ To increase the awareness of the importance of plant natural products, we will c
 
 This project is funded by NSF PGRP. 
 <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836824&HistoricalAwards=false">“MCA-PGR: Phylogeny-Guided Biochemical Genomics to Elucidate the Tyrosine-Derived Lignin Metabolic Network of Grasses”</a> 
-![NSF](NSF.jpg "NSF logo")
+![NSF](/_posts/NSF.jpg"NSF logo")
 
