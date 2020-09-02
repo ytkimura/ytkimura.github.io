@@ -24,6 +24,12 @@ To further identify gene/enzyme modules that co-evolved and reshaped the overall
 
 ![Figure 2.1](ADH_gene_expr.jpg)
 
+**Figure 2.1** Expression profile of TyrA (ADH) genes in Brachypodium in a range of different tissue types.
+
 ![Figure 2.2](path_enrich_ADH.jpg)
 
+**Figure 2.2** Pathway enrichment for TyrA 1, 2, and 3. Rows are pathways from Plant Metabolic Network and columns are different co-expression clusters. Color represents the negative log of the q-value from Fisher's Exact test, where a higher number is a a more highly enriched pathway (lower q-value).
+
 ![Figure 2.3](coexprs_path.jpg)
+
+**Figure 2.3** Lignin/Phenylpropanoid pathway map with enzymes and metabolites. Yellow dots indicate genes coexpressed with TyrA1 in Brachypodium, red dots indicate genes coexpressed with PTAL in maize.
