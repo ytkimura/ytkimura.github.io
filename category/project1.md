@@ -8,8 +8,16 @@ While most of the plants synthesize lignin and other phenylpropanoid exclusively
 
 ![Figure 1.1](figure1.1.jpg)
 
-**Figure 1.1:** grasses have the unique ability to synthesize secondary cell walls from tyrosine thanks to the novelty of PTAL enzymatic activity. Reproduced from <a href="https://doi.org/10.1038/nplants.2016.80"> Maeda, H. Lignin biosynthesis: Tyrosine shortcut in grasses. Nature Plants 2, 16080 (2016).</a>
+**Figure 1.1:** Grasses have the unique ability to synthesize secondary cell walls from tyrosine thanks to the novelty of PTAL enzymatic activity. Reproduced from <a href="https://doi.org/10.1038/nplants.2016.80"> Maeda, H. Lignin biosynthesis: Tyrosine shortcut in grasses. Nature Plants 2, 16080 (2016).</a>
 
 ![Figure 1.2](figure1.2.jpg)
 
-**Figure 1.2:** grasses have a recent duplication in TyrA gene family giving place to the isoforms TyrA1 and TyrA2, which do not exist in other monocots or dicots. In addition, grasses and other monocots have retained an additional isoform (TyrA3) that seems to have been lost in Arabidopsis and other dicots.
+**Figure 1.2:** Grasses have undergone a recent duplication in TyrA gene family giving rise to the isoforms TyrA1 and TyrA2, which do not exist in other monocots or dicots. In addition, grasses and other monocots have retained an additional isoform (TyrA3) that seems to have been lost in Arabidopsis and other dicots. 
+
+## Molecular basis of Tyr-lignin pathway evolution ##
+
+Utilizing the evolutionary history of TyrA and PTAL enzymes, a phylogeny-guided structure-function analyses is being conducted to define molecular basis of the evolution of the tyrosine-derived lignin pathway. In general, land plants give priority to the biosynthesis of phenylalanine over tyrosine through multiple levels of metabolic control: biochemical regulation of the enzymes, higher expression level of the enzymes for Phe biosynthesis, etc. But this does not seem to be the case of grasses, in which very high tyrosine levels have been reported. How do grasses accumulate such high amounts of tyrosine, presumably to fuel lignin biosynthesis? In most plants, the commitment enzyme for Tyr biosynthesis (arogenate dehydrogenase or TyrA) is inhibited by low levels of tyrosine, which contributes to channel the main bulk the arogenate pool -the common precursor for tyrosine and phenylalanine- into Phe. The biochemical characterization of multiple recombinant TyrA proteins has shown that these enzymes are frequently deregulated in grasses, meaning that their catalytic activity is not tightly repressed by Tyr as normally happens to other plants.
+
+## Evolution of the Tyr-lignin metabolic network ##
+
+To further identify gene/enzyme modules that co-evolved and reshaped the overall tyrosine-lignin biosynthetic network, a variety of phylogenomic, genomic and expression analyses will be conducted.
