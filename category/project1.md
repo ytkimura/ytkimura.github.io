@@ -23,3 +23,7 @@ Utilizing the evolutionary history of TyrA and PTAL enzymes, a phylogeny-guided 
 To further identify gene/enzyme modules that co-evolved and reshaped the overall tyrosine-lignin biosynthetic network, a variety of phylogenomic, genomic and expression analyses will be conducted. We have developed co-expression networks in Brachypodium distachyon for each of the 3 TyrAs in that species, TyrA1, TyrA2, and TyrA3. TyrA1 was found to be more highly expressed than TyrA2 or TyrA3 (Figure 2.1). Furthermore, all three TyrAs form separate co-expression clusters that are enriched in different pathways (Figure 2.2). TyrA1 is co-expressed with many members of the lignin (phenylpropanoid) biosynthetic pathway such as PTAL,NCT, and CAD, and we find similar co-expression of homologous enzymes in maize (Figure 2.3). However TyrA3 co-expresses with the L-tyrosine biosynthesis pathway, and therefore may work together with TyrA1 to biosynthesize lignin from tyrosine.
 
 ![Figure 2.1](ADH_gene_expr.jpg)
+
+![Figure 2.2](path_enrich_ADH.jpg)
+
+![Figure 2.3](coexprs_path.jpg)
