@@ -16,4 +16,9 @@ Specifically, this research aims to investigate coordinated evolution of **the t
 
 To increase the awareness of the importance of plant natural products, we will conduct **“Pigment Art”** and other outreach activities, targeted to K-12 students especially from underrepresented communities (see our outreach activity here).  We are also building a novel plant chemical database (termed **phylochemical database**) with students to study diversity and complexity of plant biochemical traits in light of evolution.
 
+### Funding
+
+This project is funded by NSF PGRP. 
+<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836824&HistoricalAwards=false">“MCA-PGR: Phylogeny-Guided Biochemical Genomics to Elucidate the Tyrosine-Derived Lignin Metabolic Network of Grasses”</a> 
+![NSF](NSF.jpg "NSF logo")
 
