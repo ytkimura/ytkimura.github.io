@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{The Hyde theme for Jekyll, refreshed.}
   spec.homepage      = "https://github.com/fongandrew/hydeout"
-  spec.license       = "MIT"
+  spec.license       
 
   spec.metadata["plugin_type"] = "theme"
 
