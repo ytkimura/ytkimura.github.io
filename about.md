@@ -10,6 +10,6 @@ Maeda Lab at University of Wisconsin-Madison studies evolutionary diversificatio
 
 **Hiroshi Maeda** ![Hiroshi Maeda](category/hiroshi.jpg)    **Jorge El-Azaz** ![Jorge El-Azaz](category/jorge.jpg)    **Beth Moore** ![Beth Moore](category/beth.jpg) 
 
-**Caroline Hanson** ![Caroline Hanson](category/caroline.jpg)    **Megan Gundrum** ![Megan Gundrum](category/megan.jpg)
+**Yuri Kimura** ![Yuri Kimura](category/Yuri.jpg)   **Caroline Hanson** ![Caroline Hanson](category/caroline.jpg)    **Megan Gundrum** ![Megan Gundrum](category/megan.jpg)
 
 **Elaine Wang** ![Elaine Wang](category/elaine.jpg)     **Anika Gupta** ![Anika Gupta](category/anika.jpg)    **Andrew Hall** ![Andrew Hall](category/andrew.jpg)
