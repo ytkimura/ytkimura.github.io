@@ -5,7 +5,7 @@ title: 業績
 
 
 
-**学術論文**
+##**学術論文**
 
 Martin A.F., Tobimatsu Y., Lam P.-Y., Matsumoto N., Tanaka T., Suzuki S., Kusumi R., Miyamoto T., **Takeda-Kimura Y.**, Yamamura M., et al. Lignocellulose molecular assembly and deconstructions of lignin-altered CAldOMT- and CAD-deficient rice mutants. Plant Physiolosy (2022) 191:70-86
 
@@ -33,11 +33,11 @@ Songkui Cui, Syogo Wada, Yuki Tobimatsu, **Yuri Takeda**, Simon B. Saucet, Toshi
 
 Pui Ying Lam, Yuki Tobimatsu, **Yuri Takeda**, Shiro Suzuki, Masaomi Yamamura, Toshiaki Umezawa, Clive Lo. (2017) Disrupting Flavone Synthase II alters lignin and improves biomass digestibility. Plant Physiology, 174, 972–985.
 
-**総説及びその他出版物**
+##**総説及びその他出版物**
 
 Toshiaki Umezawa, Yuki Tobimatsu, Masaomi Yamamura, Takuji Miyamoto, **Yuri Takeda**, Taichi Koshiba, Rie Takada, Pui Ying Lam, Shiro Suzuki, Masahiro Sakamoto. (2020) Lignin metabolic engineering in grasses for primary lignin valorization. Lignin, 1:30-41.
 
-**受賞歴**
+##**受賞歴**
 
 2015年11⽉ 	第60回 リグニン討論会 学生口頭発表賞
 
