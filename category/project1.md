@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Research
+title: 研究内容
 ---
 ## Evolutionary timing of Tyr-lignin pathway:
 
