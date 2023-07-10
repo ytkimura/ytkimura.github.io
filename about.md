@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about the lab
+title: member
 sidebar_link: true
 ---
 
