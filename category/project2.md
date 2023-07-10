@@ -3,6 +3,8 @@ layout: category
 title: 業績
 ---
 
+
+
 **学術論文**
 
 Martin A.F., Tobimatsu Y., Lam P.-Y., Matsumoto N., Tanaka T., Suzuki S., Kusumi R., Miyamoto T., **Takeda-Kimura Y.**, Yamamura M., et al. Lignocellulose molecular assembly and deconstructions of lignin-altered CAldOMT- and CAD-deficient rice mutants. Plant Physiolosy (2022) 191:70-86
