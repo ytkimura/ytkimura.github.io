@@ -14,8 +14,8 @@ baseurl:          ''
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
-author:           Yuri Takeda-Kimura
-  name:           ''
+author:
+  name:           'ゲノム機能生化学分野'
   url:            https://yuritakeda0210.github.io/
 
 paginate:         6
