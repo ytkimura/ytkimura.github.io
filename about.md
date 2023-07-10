@@ -15,4 +15,6 @@ sidebar_link: true
   (2021年〜2023年 日本学術振興会海外特別研究員)
 2023年9月〜 山形大学農学部 バイオサイエンスコース ゲノム機能生化学分野 助教
 
+ResearchGate: https://www.researchgate.net/profile/Yuri-Takeda-Kimura
+
 
