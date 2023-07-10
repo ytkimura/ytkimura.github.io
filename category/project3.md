@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Contact
+title: 連絡先
 ---
 ## Contact
 
