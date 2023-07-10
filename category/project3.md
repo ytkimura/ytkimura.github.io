@@ -1,9 +1,7 @@
 ---
 layout: category
-title: Contact us!
+title: Contact
 ---
 ## Contact
 
-Maeda lab email: <a href="maedabotany@gmail.com">maedabotany@gmail.com</a>.
-
-Dr. Hiroshi Maeda's email: <a href="maeda2@wisc.edu">maeda2@wisc.edu</a>.
+木村ゆり: <a href="ykimura2@wisc.edu">ykimura2@wisc.edu</a>.
