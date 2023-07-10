@@ -4,10 +4,10 @@ highlighter:      rouge
 
 # Setup
 title:            Plant Metabolic Evolution
-tagline:          'NSF PGRP project'
-description:      'NSF funded project to study the evolution of metabolic networks in plants.'
-url:              https://hiroshilab.github.io/PGRP/
-baseurl:          '/PGRP'
+tagline:          ''
+description:      'イネ科リグニン生合成進化機構に関する研究'
+url:              https://yuritakeda0210.github.io/
+baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -15,7 +15,7 @@ baseurl:          '/PGRP'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Maeda Lab'
+  name:           'ゲノム機能生化学分野'
   url:            
 
 paginate:         5
