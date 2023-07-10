@@ -11,5 +11,5 @@ title: 研究内容
  
 ![Figure 1](Figure 1.png)
 
-**Figure 1:** Grasses have the unique ability to synthesize secondary cell walls from tyrosine thanks to the novelty of PTAL enzymatic activity. Reproduced from <a href="https://doi.org/10.1038/nplants.2016.80"> Maeda, H. Lignin biosynthesis: Tyrosine shortcut in grasses. Nature Plants 2, 16080 (2016).</a>
+**Figure 1:** 陸上植物進化におけるリグニン部分構造及び生合成経路（フェニルプロパノイド経路）の多様化
 
