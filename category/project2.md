@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Publications
+title: 業績
 ---
 
 ## Plant Chemical Database
