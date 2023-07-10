@@ -6,11 +6,13 @@ excerpt_separator:  <!--more-->
 
 ### 背景
 
-Primary metabolites, such as proteins and cell walls, construct the plant body and hence directly impact yield, quality, and performance of crops. Primary metabolic pathways are, however, often difficult to manipulate due to their vital nature and integration into complex metabolic networks. To overcome this challenge **this research will explore primary metabolic diversity to uncover major evolutionary innovations of plant metabolism** and to provide novel tools and strategies to rationally optimize these core metabolic processes in plants. 
+　植物は光エネルギーを利用して、二酸化炭素と水からさまざまな有機化合物を作り出すことができます。これらの植物代謝産物は、古くから建材やパルプ、食料、医薬品等、人々の生活をさまざまな面から支えてきました。化石資源に依らない持続的生産系が強く求められている今、ゲノム編集技術等を用いた代謝改変による植物代謝産物の効率的生産系や未利用成分の有効利用法の構築による植物資源のさらなる有効活用に期待が集まっています。
+　リグニンは、植物二次細胞壁（木質バイオマス）の主要成分の１つであり、植物重量の最大３０％を占める、陸上で最も多量に存在する芳香族ポリマーです。従って、化石資源に代わる再生可能資源の中で、芳香族系の高分子材料や化成品を大量かつ安定的に供給できる原料として注目されています。しかし、リグニンは複雑多様な化学構造を有しているために、未だに有効な利用法は見出されていません。代謝工学的手法により、リグニンの構造を制御・改変することは、木質バイオマスの利用性を向上させるために有効と考えられます。 
 
 ### 研究室の目標
 
-Specifically, this research aims to investigate coordinated evolution of **the tyrosine-derived lignin biosynthetic pathway** uniquely evolved in grasses, which provide major sources of our calories (e.g. wheat, maize, rice) and bioenergy production (e.g. sugar cane, sorghum, switchgrass). While lignin and other phenylpropanoid compounds are typically derived from L-phenylalanine in most plants, grasses synthesize these compounds additionally from L-tyrosine. Fundamental understanding of the tyrosine-derived lignin and other natural product pathways will enable optimization of amino acid and cell wall biosynthesis to improve yield and quality of foods, fuels, and biomaterials. 
+ゲノム機能生化学分野では、リグニンの生合成に関わる酵素の機能や制御の多様性を調べ、その知見を有用物質の高生産に役立てることです。---編集中---
+
 
 ### 研究室の特徴
 
