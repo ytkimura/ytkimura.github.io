@@ -17,7 +17,7 @@ sidebar_link: true
 
   (2017年〜2019年 日本学術振興会特別研究員DC2)
 
-2019年〜2020年 京都大学大学院農学研究科 ポスドク研究員（<a href="https://www.rish.kyoto-u.ac.jp/lmsfpm/"> 森林代謝機能化学分野</a>）
+2019年〜2020年 京都大学大学院農学研究科 ポスドク研究員（<a href="https://www.rish.kyoto-u.ac.jp/lmsfpm/">森林代謝機能化学分野</a>）
 
 2020年〜2023年 ウィスコンシン大学マディソン校 植物学専攻 ポスドク研究員（<a href="https://maeda.botany.wisc.edu/wiki/Main_Page">Maeda研究室</a>）
 
