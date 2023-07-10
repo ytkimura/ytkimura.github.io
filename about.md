@@ -5,7 +5,9 @@ sidebar_link: true
 ---
 
 
-**木村(武田) ゆり** ![Yuri Kimura](category/Yuri2.jpg)   
+**木村(武田) ゆり** 
+
+![Yuri Kimura](category/Yuri2.jpg)   
 
 2010年〜2014年 大阪市立大学理学部化学科 
 
