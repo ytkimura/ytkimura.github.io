@@ -7,9 +7,12 @@ title: 連絡先
 **木村ゆり**
 
 email: <a href="ykimura2@wisc.edu">ykimura2[at]wisc.edu</a>
+
 tel: 
 
 [at]を＠に変換してください
+
+
 
 
 
