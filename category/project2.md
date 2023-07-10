@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Resources
+title: Publications
 ---
 
 ## Plant Chemical Database
