@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About the Maeda lab
+title: ゲノム機能生化学分野について
 sidebar_link: true
 ---
 
-Maeda Lab at University of Wisconsin-Madison studies evolutionary diversification of core metabolic pathways (i.e. primary metabolism) in various plants through chemical, biochemical, genetic, and evolutionary analyses. For more information about our lab go to our [website](https://maeda.botany.wisc.edu/).
+ゲノム機能生化学分野では、重要な農作物やバイオマス植物を含むイネ科植物におけるリグニン生合成進化機構の解明を目指した研究を行っています。
 
 ### People working on the projects:
 
-**Hiroshi Maeda** ![Hiroshi Maeda](category/hiroshi.jpg)    **Jorge El-Azaz** ![Jorge El-Azaz](category/jorge.jpg)    **Beth Moore** ![Beth Moore](category/beth.jpg) 
-
-**Yuri Kimura** ![Yuri Kimura](category/Yuri.jpeg)    **Caroline Hanson** ![Caroline Hanson](category/caroline.jpg)    **Megan Gundrum** ![Megan Gundrum](category/megan.jpg)
-
-**Elaine Wang** ![Elaine Wang](category/elaine.jpg)     **Anika Gupta** ![Anika Gupta](category/anika.jpg)    **Andrew Hall** ![Andrew Hall](category/andrew.jpg)
+**Yuri Kimura** ![Yuri Kimura](category/Yuri.jpeg)    
