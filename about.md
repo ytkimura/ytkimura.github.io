@@ -1,6 +1,6 @@
 ---
 layout: page
-title: メンバー
+title: 👩‍🏫メンバー
 sidebar_link: true
 ---
 
