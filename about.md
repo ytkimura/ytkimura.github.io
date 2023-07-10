@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 
-**木村(武田) ゆり** 
+# **木村(武田) ゆり** 
 
 ![Yuri Kimura](category/Yuri2.jpg)   
 
