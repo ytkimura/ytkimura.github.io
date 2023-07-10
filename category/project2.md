@@ -29,7 +29,7 @@ J. Musembi Mutuku, Songkui Cui, Chiaki Hori, **Yuri Takeda**, Yuki Tobimatsu, Ry
 
 Songkui Cui, Syogo Wada, Yuki Tobimatsu, **Yuri Takeda**, Simon B. Saucet, Toshiyuki Takano, Toshiaki Umezawa, Ken Shirasu, Satoko Yoshida. (2018) Host lignin composition affects haustorium induction in the parasitic plants Phtheirospermum japonicum and Striga hermonthica. <a href="http://dx.doi.org/10.1111/nph.15033">New Phytologist, 218, 710–723.</a>
 
-**Yuri Takeda**, Taichi Koshiba, Yuki Tobimatsu, Shiro Suzuki, Shinya Murakami, Masaomi Yamamura, Md. Mahabubur Rahman, Toshiyuki Takano, Takefumi Hattori, Masahiro Sakamoto, Toshiaki Umezawa. (2017) <a href="https://link.springer.com/article/10.1007/s00425-017-2692-x"> Regulation of CONIFERALDEHYDE 5-HYDROXYLASE expression to modulate cell wall lignin structure in rice. Planta, 246, 337-349.</a>
+**Yuri Takeda**, Taichi Koshiba, Yuki Tobimatsu, Shiro Suzuki, Shinya Murakami, Masaomi Yamamura, Md. Mahabubur Rahman, Toshiyuki Takano, Takefumi Hattori, Masahiro Sakamoto, Toshiaki Umezawa. (2017) Regulation of CONIFERALDEHYDE 5-HYDROXYLASE expression to modulate cell wall lignin structure in rice. <a href="https://link.springer.com/article/10.1007/s00425-017-2692-x">Planta, 246, 337-349.</a>
 
 Pui Ying Lam, Yuki Tobimatsu, **Yuri Takeda**, Shiro Suzuki, Masaomi Yamamura, Toshiaki Umezawa, Clive Lo. (2017) Disrupting Flavone Synthase II alters lignin and improves biomass digestibility. <a href="http://dx.doi.org/10.1104/pp.16.01973">Plant Physiology, 174, 972–985.</a>
 
