@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ゲノム機能生化学分野について
+title: about the lab
 sidebar_link: true
 ---
 
