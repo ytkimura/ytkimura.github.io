@@ -3,6 +3,8 @@ layout: category
 title: 業績
 ---
 
+#学術論文#
+
 Martin A.F., Tobimatsu Y., Lam P.-Y., Matsumoto N., Tanaka T., Suzuki S., Kusumi R., Miyamoto T., Takeda-Kimura Y., Yamamura M., et al. Lignocellulose molecular assembly and deconstructions of lignin-altered CAldOMT- and CAD-deficient rice mutants. Plant Physiolosy (2022) 191:70-86
 
 Yokoyama R., de Oliveira M.V.V., Takeda-Kimura Y., Ishihara H., Alseekh S., Arrivault S., Kukshal V., Jez J.M., Stitt M., Fernie A.R., Maeda H.A. Point mutations that boost aromatic amino acid production and CO2 assimilation in plants. Science Advances (2022) 8:23.
@@ -30,4 +32,12 @@ Songkui Cui, Syogo Wada, Yuki Tobimatsu, Yuri Takeda, Simon B. Saucet, Toshiyuki
 Yuri Takeda, Taichi Koshiba, Yuki Tobimatsu, Shiro Suzuki, Shinya Murakami, Masaomi Yamamura, Md. Mahabubur Rahman, Toshiyuki Takano, Takefumi Hattori, Masahiro Sakamoto, Toshiaki Umezawa. (2017) Regulation of CONIFERALDEHYDE 5-HYDROXYLASE expression to modulate cell wall lignin structure in rice. Planta, 246, 337-349.
 
 Pui Ying Lam, Yuki Tobimatsu, Yuri Takeda, Shiro Suzuki, Masaomi Yamamura, Toshiaki Umezawa, Clive Lo. (2017) Disrupting Flavone Synthase II alters lignin and improves biomass digestibility. Plant Physiology, 174, 972–985.
+
+#その他出版物#
+
+#受賞歴#
+2015年11⽉ 	第60回 リグニン討論会 学生口頭発表賞
+2016年10⽉ 	第10回 植物細胞壁ネットワーク定例研究会 最優秀口頭発表賞
+2016年10⽉ 	第61回 リグニン討論会 学生ポスター発表賞
+2019年1⽉ 	2018年度 ⽇本⽊材学会 優秀⼥⼦学⽣賞
 
