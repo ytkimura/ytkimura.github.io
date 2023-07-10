@@ -36,6 +36,7 @@ Pui Ying Lam, Yuki Tobimatsu, **Yuri Takeda**, Shiro Suzuki, Masaomi Yamamura, T
 Toshiaki Umezawa, Yuki Tobimatsu, Masaomi Yamamura, Takuji Miyamoto, **Yuri Takeda**, Taichi Koshiba, Rie Takada, Pui Ying Lam, Shiro Suzuki, Masahiro Sakamoto. (2020) Lignin metabolic engineering in grasses for primary lignin valorization. Lignin, 1:30-41.
 
 **受賞歴**
+
 2015年11⽉ 	第60回 リグニン討論会 学生口頭発表賞
 2016年10⽉ 	第10回 植物細胞壁ネットワーク定例研究会 最優秀口頭発表賞
 2016年10⽉ 	第61回 リグニン討論会 学生ポスター発表賞
