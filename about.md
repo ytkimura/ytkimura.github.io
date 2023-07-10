@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 
-**Yuri Kimura** ![Yuri Kimura](category/Yuri.jpeg)   
+**木村(武田) ゆり** ![Yuri Kimura](category/Yuri.jpg)   
 2010年〜2014年 大阪市立大学理学部化学科 
 2014年〜2016年 京都大学大学院農学研究科 修士課程  
 2016年〜2019年 京都大学大学院農学研究科 博士課程
