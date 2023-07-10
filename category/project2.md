@@ -40,7 +40,10 @@ Toshiaki Umezawa, Yuki Tobimatsu, Masaomi Yamamura, Takuji Miyamoto, **Yuri Take
 **受賞歴**
 
 2015年11⽉ 	第60回 リグニン討論会 学生口頭発表賞
+
 2016年10⽉ 	第10回 植物細胞壁ネットワーク定例研究会 最優秀口頭発表賞
+
 2016年10⽉ 	第61回 リグニン討論会 学生ポスター発表賞
+
 2019年1⽉ 	2018年度 ⽇本⽊材学会 優秀⼥⼦学⽣賞
 
