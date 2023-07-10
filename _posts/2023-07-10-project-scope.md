@@ -19,6 +19,7 @@ excerpt_separator:  <!--more-->
 
 ## News
 
+2023.07.09 ホームページを始めました！
 
 
 
