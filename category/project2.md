@@ -7,7 +7,7 @@ title: 業績
 
 ## **学術論文**
 
-<a href="https://academic.oup.com/plphys/article/191/1/70/6705269"> Martin A.F., Tobimatsu Y., Lam P.-Y., Matsumoto N., Tanaka T., Suzuki S., Kusumi R., Miyamoto T., **Takeda-Kimura Y.**, Yamamura M., et al. Lignocellulose molecular assembly and deconstructions of lignin-altered CAldOMT- and CAD-deficient rice mutants. Plant Physiolosy (2022) 191:70-86 </a>
+Martin A.F., Tobimatsu Y., Lam P.-Y., Matsumoto N., Tanaka T., Suzuki S., Kusumi R., Miyamoto T., **Takeda-Kimura Y.**, Yamamura M., et al. Lignocellulose molecular assembly and deconstructions of lignin-altered CAldOMT- and CAD-deficient rice mutants. <a href="https://academic.oup.com/plphys/article/191/1/70/6705269"> Plant Physiolosy (2022) 191:70-86 </a>
 
 Yokoyama R., de Oliveira M.V.V., **Takeda-Kimura Y.**, Ishihara H., Alseekh S., Arrivault S., Kukshal V., Jez J.M., Stitt M., Fernie A.R., Maeda H.A. Point mutations that boost aromatic amino acid production and CO2 assimilation in plants. Science Advances (2022) 8:23.
 
