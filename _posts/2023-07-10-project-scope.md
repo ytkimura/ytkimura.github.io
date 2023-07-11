@@ -4,6 +4,7 @@ title: ゲノム機能生化学分野へようこそ！
 excerpt_separator:  <!--more-->
 ---
 
+!(Figure0.png)
 
 ### 研究室の目標
 
