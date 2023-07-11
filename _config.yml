@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:             <span class="green">ゲノム機能生化学分野</span>
+title:            ゲノム機能生化学分野
 tagline:          '山形大'
 description:      '山形大学農学部'
 url:              https://ytkimura.github.io/
