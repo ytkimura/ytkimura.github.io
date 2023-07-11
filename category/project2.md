@@ -1,6 +1,6 @@
 ---
 layout: category
-title: 業績
+title: 🌱業績
 ---
 
 
