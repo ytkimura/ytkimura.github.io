@@ -1,6 +1,6 @@
 ---
 layout: category
-title: 連絡先
+title: ✉️連絡先
 ---
 
 
