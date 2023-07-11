@@ -4,6 +4,9 @@ title: ゲノム機能生化学分野へようこそ！
 excerpt_separator:  <!--more-->
 ---
 
+
+
+
 ![Figure0](../category/Figure0.png)
 
 
