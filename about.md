@@ -25,4 +25,6 @@ sidebar_link: true
 
 ResearchGate: <a href="https://www.researchgate.net/profile/Yuri-Takeda-Kimura">https://www.researchgate.net/profile/Yuri-Takeda-Kimura</a>
 
+Researchmap: <a href="https://researchmap.jp/ytkimura">https://researchmap.jp/ytkimura</a>
+
 
