@@ -8,9 +8,9 @@ title: ✉️連絡先
 
 
 
-email: <a href="ykimura@tds1.tr.yamagata-u.ac.jp">ykimura[at]tds1.tr.yamagata-u.ac.jp</a>
+email: ykimura[at]tds1.tr.yamagata-u.ac.jp
 
-tel: 
+tel: 0235-28-3355
 
 [at]を＠に変換してください
 
