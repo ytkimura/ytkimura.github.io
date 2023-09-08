@@ -8,7 +8,7 @@ title: ✉️連絡先
 
 
 
-email: <a href="ykimura2@wisc.edu">ykimura2[at]wisc.edu</a>
+email: <a href="ykimura@tds1.tr.yamagata-u.ac.jp">ykimura[at]tds1.tr.yamagata-u.ac.jp</a>
 
 tel: 
 
