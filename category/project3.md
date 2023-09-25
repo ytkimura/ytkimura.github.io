@@ -1,5 +1,5 @@
 ---
-layout: English
+layout: Category
 title: English
 ---
 
