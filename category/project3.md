@@ -1,4 +1,4 @@
-<img width="1444" alt="image" src="https://github.com/ytkimura/ytkimura.github.io/assets/72284203/de7b975e-efa4-44eb-915e-6fb96c5e003c">---
+---
 layout: English
 title: English
 ---
