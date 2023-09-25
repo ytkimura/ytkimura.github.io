@@ -1,31 +1,8 @@
+<img width="1444" alt="image" src="https://github.com/ytkimura/ytkimura.github.io/assets/72284203/de7b975e-efa4-44eb-915e-6fb96c5e003c">---
+layout: English
+title: English
 ---
-layout: category
-title: ✉️連絡先
----
 
+Our research is focused on exploring the evolutionary mechanisms governing diverse metabolic pathways and their regulation in connection with lignin, a crucial component of plant cell walls that provides structural support to plants and facilitates water transportation.
 
-**木村ゆり**
-
-
-
-email: ykimura[at]tds1.tr.yamagata-u.ac.jp
-
-tel: 0235-28-3355
-
-[at]を＠に変換してください
-
-
-
-
-
-
-〒997-8555
-
-山形県鶴岡市若葉町 1-23
-
-山形大学 農学部 食料生命環境学科
-
-バイオサイエンスコース
-
-ゲノム機能生化学分野
-
+------ under construction -------
