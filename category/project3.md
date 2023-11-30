@@ -11,4 +11,4 @@ If you are interested in our research, please contact us!
 
 Yuri Takeda-Kimura
 
-email: ykimura[at]tds1.tr.yamagata-u.ac.jp; tel: 0235-28-2868 (please change [at] to ＠)
+email: ykimura[at]tds1.tr.yamagata-u.ac.jp (please change [at] to ＠)
