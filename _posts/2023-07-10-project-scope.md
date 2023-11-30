@@ -35,7 +35,6 @@ excerpt_separator:  <!--more-->
 **木村ゆり**
 
 email: ykimura[at]tds1.tr.yamagata-u.ac.jp
-tel: 0235-28-2868
 [at]を＠に変換してください
 
 〒997-8555　山形県鶴岡市若葉町 1-23
