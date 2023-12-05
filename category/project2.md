@@ -7,7 +7,7 @@ title: 🌱業績
 
 ## **学術論文**
 
-El-Azaz J., Moore B., **Takeda-Kimura Y.**, Yokoyama R., Wijesingha Ahchige M., Chen X., Schneider M., Maeda H.A. (2023) Coordinated regulation of the entry and exit steps of aromatic amino acid biosynthesis supports the dual lignin pathway in grasses. Nature Commun. 14, 7242
+El-Azaz J., Moore B., **Takeda-Kimura Y.**, Yokoyama R., Wijesingha Ahchige M., Chen X., Schneider M., Maeda H.A. (2023) Coordinated regulation of the entry and exit steps of aromatic amino acid biosynthesis supports the dual lignin pathway in grasses. <a href="https://www.nature.com/articles/s41467-023-42587-7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231109&utm_content=10.1038/s41467-023-42587-7#Sec25"> Nature Commun. 14, 7242
 
 Martin A.F., Tobimatsu Y., Lam P.-Y., Matsumoto N., Tanaka T., Suzuki S., Kusumi R., Miyamoto T., **Takeda-Kimura Y.**, Yamamura M., et al. Lignocellulose molecular assembly and deconstructions of lignin-altered CAldOMT- and CAD-deficient rice mutants. <a href="https://academic.oup.com/plphys/article/191/1/70/6705269"> Plant Physiolosy (2022) 191:70-86 </a>
 
