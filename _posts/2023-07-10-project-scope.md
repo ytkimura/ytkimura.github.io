@@ -9,7 +9,7 @@ excerpt_separator:  <!--more-->
 
 ![Figure0](../category/Figure0.png)
 
-### ホームページ移転しました：https://yamagata-plant-biochem.amebaownd.com/
+### ホームページ移転しました：<a href="https://yamagata-plant-biochem.amebaownd.com/">
 
 ### 研究室の目標
 
