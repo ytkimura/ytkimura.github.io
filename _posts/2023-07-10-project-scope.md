@@ -9,8 +9,7 @@ excerpt_separator:  <!--more-->
 
 ![Figure0](../category/Figure0.png)
 
-### ホームページ移転しました：<a href="https://yamagata-plant-biochem.amebaownd.com/">
-
+### ホームページ移転しました：<a href="[https://yamagata-plant-biochem.amebaownd.com/]">山形大 豊増研＆木村研</a>
 ### 研究室の目標
 
 ゲノム機能生化学分野では、植物の体を支え水分を運ぶのに必須の細胞壁成分「リグニン」を対象に、その生合成に関わる酵素機能や制御の多様性を生み出している進化のメカニズムを調べています。また、得られる知見をリグニンの有効利用や芳香族有用物質の高生産に役立てることを目指します。
